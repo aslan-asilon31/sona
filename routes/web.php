@@ -4,6 +4,8 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\DashboardController;
 
 use App\Http\Controllers\Allotment\AllotmentController;
+use App\Http\Controllers\RatePlan\RatePlanController;
+use App\Http\Controllers\Room\RoomController;
 use App\Http\Controllers\FullCalenderController;
 
 /*
@@ -32,6 +34,12 @@ Route::get('/allotment', [AllotmentController::class, 'index'])->name('allotment
 // Route::post('/allotment/create', [AllotmentController::class, 'store']);
 // Route::put('/allotment/{id}', [AllotmentController::class, 'update']);
 // Route::delete('/allotment/{allotment_id}', [AllotmentController::class, 'destroy']);
+
+//rate plan
+Route::get('/rateplans', [RatePlanController::class, 'index'])->name('rateplan.index');
+
+//room
+Route::get('/room', [RoomController::class, 'index'])->name('room.index');
 
 
 // calendar 1

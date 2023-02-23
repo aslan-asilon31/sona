@@ -94,7 +94,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="{{ route('allotment.index') }}" class="nav-link">
+            <a href="{{ route('rateplan.index') }}" class="nav-link">
               <i class="nav-icon fas fa-star"></i>
               <p>
                 Rates Plan
@@ -110,7 +110,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="{{ route('allotment.index') }}" class="nav-link">
+            <a href="{{ route('room.index') }}" class="nav-link">
               <i class="nav-icon fas fa-person-booth"></i>
               <p>
                 Room
@@ -155,13 +155,7 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0">Dashboard</h1>
-          </div><!-- /.col -->
-          <div class="col-sm-6">
-            <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard </li>
-            </ol>
+            <h1 class="m-0">@yield('title')</h1>
           </div><!-- /.col -->
         </div><!-- /.row -->
       </div><!-- /.container-fluid -->

@@ -52,7 +52,7 @@
             </div>
             <ul class="top-widget">
                 <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-                <li><i class="fa fa-envelope"></i> sona@gmail.com</li>
+                <li><i class="fa fa-envelope"></i> aslanasilon@gmail.com</li>
             </ul>
         </div>
         <!-- Offcanvas Menu Section End -->
@@ -479,7 +479,7 @@
                             <div class="bi-text">
                                 <span class="b-tag">Travel Trip</span>
                                 <h4><a href="#">Tremblant In Canada</a></h4>
-                                <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2019</div>
+                                <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2023</div>
                             </div>
                         </div>
                     </div>
@@ -488,7 +488,7 @@
                             <div class="bi-text">
                                 <span class="b-tag">Camping</span>
                                 <h4><a href="#">Choosing A Static Caravan</a></h4>
-                                <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2019</div>
+                                <div class="b-time"><i class="icon_clock_alt"></i> 15th April, 2023</div>
                             </div>
                         </div>
                     </div>
@@ -497,7 +497,7 @@
                             <div class="bi-text">
                                 <span class="b-tag">Event</span>
                                 <h4><a href="#">Copper Canyon</a></h4>
-                                <div class="b-time"><i class="icon_clock_alt"></i> 21th April, 2019</div>
+                                <div class="b-time"><i class="icon_clock_alt"></i> 21th April, 2023</div>
                             </div>
                         </div>
                     </div>
@@ -506,7 +506,7 @@
                             <div class="bi-text">
                                 <span class="b-tag">Event</span>
                                 <h4><a href="#">Trip To Iqaluit In Nunavut A Canadian Arctic City</a></h4>
-                                <div class="b-time"><i class="icon_clock_alt"></i> 08th April, 2019</div>
+                                <div class="b-time"><i class="icon_clock_alt"></i> 08th April, 2023</div>
                             </div>
                         </div>
                     </div>
@@ -515,7 +515,7 @@
                             <div class="bi-text">
                                 <span class="b-tag">Travel</span>
                                 <h4><a href="#">Traveling To Barcelona</a></h4>
-                                <div class="b-time"><i class="icon_clock_alt"></i> 12th April, 2019</div>
+                                <div class="b-time"><i class="icon_clock_alt"></i> 12th April, 2023</div>
                             </div>
                         </div>
                     </div>
@@ -551,8 +551,8 @@
                                 <h6>Contact Us</h6>
                                 <ul>
                                     <li>(12) 345 67890</li>
-                                    <li>sona@gmail.com</li>
-                                    <li>856 Cordia Extension Apt. 356, Lake, United State</li>
+                                    <li>aslanasilon@gmail.com</li>
+                                    <li>Indonesia</li>
                                 </ul>
                             </div>
                         </div>
@@ -582,7 +582,7 @@
                         </div>
                         <div class="col-lg-5">
                             <div class="co-text"><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-      Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+      Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
       <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p></div>
                         </div>
                     </div>
